@@ -1,0 +1,1 @@
+int my_get_ip(char *myIP);

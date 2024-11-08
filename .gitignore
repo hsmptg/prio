@@ -1,0 +1,17 @@
+# VS Code Settings
+.vscode
+# !.vscode/c_cpp_properties.json
+
+# ESP-IDF default build directory name
+build
+
+# lock files for examples and components
+dependencies.lock
+
+# managed_components for examples
+managed_components
+
+# misc
+sdkconfig
+sdkconfig.old
+.devcontainer
